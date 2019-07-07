@@ -7,14 +7,14 @@ EXAMPLE IMAGE
 LINK HEROKU
 
 ## Tech Used
-Javascript
-jQuery
-node.js
-Express.js
-HTML
-Bootstrap
-Google Fonts
-Font Awesome
+- Javascript
+- jQuery
+- node.js
+- Express.js
+- HTML/CSS
+- Bootstrap
+- Google Fonts
+- Font Awesome
 
 ## Requirements
 Create seperate files storing server logic, friends data and routing
