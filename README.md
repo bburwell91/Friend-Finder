@@ -4,7 +4,7 @@ Are you in need of a new friend? Look no further. This simple application will s
 
 EXAMPLE IMAGE
 
-LINK HEROKU
+LIVE LINK https://hw13friendfinder.herokuapp.com/
 
 ## Tech Used
 - Javascript
