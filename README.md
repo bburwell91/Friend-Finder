@@ -2,9 +2,12 @@
 
 Are you in need of a new friend? Look no further. This simple application will survey you 10 questions and based on the results use the friend matching algorithm to match you with the best match based on the data we have gathered from our tested users.
 
-![example](https://github.com/bburwell91/Friend-Finder/blob/master/app/images/example1.png)
+## LIVE LINK https://hw13friendfinder.herokuapp.com/
 
-LIVE LINK https://hw13friendfinder.herokuapp.com/
+## EXAMPLES
+![example](https://github.com/bburwell91/Friend-Finder/blob/master/app/images/example1.png)
+![example](https://github.com/bburwell91/Friend-Finder/blob/master/app/images/example2.png)
+![example](https://github.com/bburwell91/Friend-Finder/blob/master/app/images/example3.png)
 
 ## Tech Used
 - Javascript
